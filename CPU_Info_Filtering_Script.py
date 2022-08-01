@@ -1,4 +1,4 @@
-#script with different functions to filter output of cpu monitoring in text file
+#script with different functions to filter output of cpu monitoring in txt file
 
 import string
 
